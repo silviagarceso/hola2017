@@ -31,3 +31,4 @@ cajita
 | col1 | col2 | col3 |
 | ---- | ---- | ---- |
 | dat1 | dat2 | dat3 |
+| dat1 | dat2 | dat3 |
